@@ -28,6 +28,7 @@ Reservation Application developing using react-native
 ###### React native progress - Used to show loading screen (When fetching data from API)
 ###### Axios - Fetch API data
 
+```
 ├── src
 │   ├── api
 │   │  ├── ApiCalls.js
@@ -91,3 +92,5 @@ Reservation Application developing using react-native
 │   │  ├── GlobalStyle.js
 │   ├── utility
 │   │  ├── index.js
+
+```
