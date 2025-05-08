@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "reserve",
-    "userInterfaceStyle": "automatic",
+    "userInterfaceStyle": "automatic", //this is a comment
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
